@@ -1,5 +1,7 @@
 # <Prework Study Guide Webpage>
 
+## Description
+
 ## My motivation for the project was to be able to create a webpage myself and learn how to use different coding languages on the VS software.The webpage includes what I have learnt through reading the prework and how I was able to deploy it. I have learnt what HTML, CSS, Git and Java all do when it comes to building a webpage. I built this webpage to practsie and familiarise myself with the specific syntax of each language, to become familair with using VS code and also learn how to naviagte GitHub. I have also learnt how to troubleshoot and work through problems when my code is not working. I have also learnt to reach out to my other peers and tutors when I am struggling. 
 
 ## Installation
